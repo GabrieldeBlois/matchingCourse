@@ -1,0 +1,16 @@
+---
+day 1
+---
+networkx
+numpy
+matplotlib
+
+---
+day 2
+---
+numpy
+matplotlib
+scipy
+pandas
+sklearn
+seaborn

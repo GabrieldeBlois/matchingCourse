@@ -3,3 +3,4 @@ seaborn
 graphviz
 scipy
 scikit-learn
+networkx
